@@ -12,3 +12,5 @@ https://developer.parrot.com/docs/refdoc-android/
 https://developer.parrot.com/docs/groundsdk-android-samples/hello_drone.html
 
 https://github.com/Parrot-Developers/groundsdk-android
+
+https://developer.android.com/training/game-controllers/
