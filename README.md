@@ -91,7 +91,8 @@ What things you need to install the software and how to run :
 
 ### Referencies :
 
-Utilisation de :
+Uses of :
+
 https://github.com/codeminders/javadrone
 https://github.com/manastech/javadrone/tree/master/javadrone-api
 https://github.com/AutonomyLab/ardrone_autonomy/
