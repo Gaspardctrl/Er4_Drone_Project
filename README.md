@@ -86,20 +86,7 @@ What things you need to install the software and how to run :
 ## Running the app
 
 ```
-  Step one : Wait untill app sucesfully scan your bluetooth device. (and then click on it)
-    If it does not : Try to restart the app to make sure you accepted the uses of localisation data.
-                     Try to reScan using the `Scan` button from trop right corner.
-                     Make sure the robot is turned on.
-                     
-  Step two : Wait a fiew time untill your device is properly connected to your phone. (pretty quick here)
-    If it does not : Try to restart using the button from top right corner.
-    If it still does not : Retry from step One.
-                     
-  Step three : Turn on the bluetooth helmet and then hit `Headset` button
-  
-  Step four : Wait again till helmet is connected.. 
-    If it does not : Retry from step three. (again)
-    If Helmet is connected and show no signal or state :  Restart from step One. (sorry). 
+  You need to check : I'm using the drone in an autorized area.
 ```
 
 ### Referencies :
