@@ -1,0 +1,932 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="info" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
+    <option name="TOOL_WINDOW_REGEXP_FILTER" value="false" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c12eaf18-c492-4299-b2dc-ea5fbf3196df" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/vitamio/build/intermediates/blame/" />
+    <ignored path="$PROJECT_DIR$/vitamio/build/intermediates/bundles/" />
+    <ignored path="$PROJECT_DIR$/vitamio/build/intermediates/classes/" />
+    <ignored path="$PROJECT_DIR$/vitamio/build/intermediates/dependency-cache/" />
+    <ignored path="$PROJECT_DIR$/vitamio/build/intermediates/incremental/" />
+    <ignored path="$PROJECT_DIR$/vitamio/build/intermediates/incremental-safeguard/" />
+    <ignored path="$PROJECT_DIR$/vitamio/build/intermediates/jniLibs/" />
+    <ignored path="$PROJECT_DIR$/vitamio/build/intermediates/lint/" />
+    <ignored path="$PROJECT_DIR$/vitamio/build/intermediates/manifests/" />
+    <ignored path="$PROJECT_DIR$/vitamio/build/intermediates/res/" />
+    <ignored path="$PROJECT_DIR$/vitamio/build/intermediates/rs/" />
+    <ignored path="$PROJECT_DIR$/vitamio/build/intermediates/shaders/" />
+    <ignored path="$PROJECT_DIR$/vitamio/build/intermediates/symbols/" />
+    <ignored path="$PROJECT_DIR$/vitamio/build/intermediates/transforms/" />
+    <ignored path="$PROJECT_DIR$/vitamio/build/outputs/" />
+    <ignored path="$PROJECT_DIR$/vitamio/build/tmp/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/app/.gradle/" />
+    <ignored path="$PROJECT_DIR$/app/build/" />
+    <ignored path="$PROJECT_DIR$/app/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="FPFDU16930015368" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/admin/VideoDecoding/ARDrone20VideoDataDecoder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7248">
+              <caret line="302" lean-forward="true" selection-start-line="302" selection-end-line="302" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/admin/pilotage/MainActivityPilotage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="95" column="37" lean-forward="true" selection-start-line="95" selection-start-column="37" selection-end-line="95" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#4690#4718#0" />
+                <element signature="e#5259#5352#0" />
+                <element signature="e#6813#7301#1" />
+                <element signature="e#7502#7560#0" />
+                <element signature="class#7698:8255" />
+                <element signature="e#8267#8325#0" />
+                <element signature="class#8464:9016" />
+                <element signature="method#OnMoved#0;class#8464:9016" />
+                <element signature="e#9030#10565#0" />
+                <element signature="e#10571#12540#0" />
+                <element signature="e#12546#12819#0" />
+                <element signature="e#12825#13214#0" />
+                <element signature="e#13220#13406#0" />
+                <element signature="e#13412#13568#0" />
+                <element signature="e#13575#13825#0" />
+                <element signature="e#13831#14356#0" />
+                <element signature="e#14362#14682#0" />
+                <element signature="e#14689#15036#0" />
+                <element signature="e#15317#15521#0" />
+                <element signature="e#15527#15788#0" />
+                <element signature="e#15794#16187#0" />
+                <element signature="e#16191#16922#0" />
+                <element signature="e#16926#19812#0" />
+                <element signature="e#19975#20010#0" />
+                <element signature="e#20267#20895#0" />
+                <element signature="e#20898#21828#0" />
+                <element signature="e#21831#22137#0" />
+                <element signature="e#22141#22414#0" />
+                <element signature="e#22418#23331#0" />
+                <element signature="e#23337#27417#0" />
+                <element signature="e#27423#28971#0" />
+                <element signature="e#27506#27552#0" />
+                <element signature="e#27677#28195#0" />
+                <element signature="e#28205#28248#0" />
+                <element signature="e#28650#28720#0" />
+                <element signature="e#28753#28791#0" />
+                <element signature="e#28804#28871#0" />
+                <element signature="e#28904#28942#0" />
+                <element signature="e#30715#30789#0" />
+                <element signature="e#30875#30876#0" expanded="true" />
+                <element signature="e#30906#30907#0" expanded="true" />
+                <element signature="e#30913#31144#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>onCLick</find>
+      <find>onCre</find>
+      <find>InitialiseUI</find>
+      <find>mPreview</find>
+      <find>mPRe</find>
+      <find>textV</find>
+      <find>txtATComand</find>
+      <find>mutable_</find>
+      <find>previ</find>
+      <find>mPre</find>
+      <find>drawa</find>
+      <find>handler</find>
+      <find>oncre</find>
+      <find>runOnui</find>
+      <find>finde</find>
+      <find>joystickvi</find>
+      <find>setWillNotDraw²</find>
+      <find>elative²</find>
+      <find>face</find>
+      <find>facedetec</find>
+      <find>init</find>
+      <find>initialiseVideo</find>
+      <find>²</find>
+      <find>UI_BI</find>
+      <find>.run()</find>
+      <find>.star</find>
+      <find>Bitmap</find>
+      <find>run</find>
+      <find>runn</find>
+      <find>sleep</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/vitamio/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/google/android/gms/samples/vision/face/facetracker/ui/camera/GraphicOverlay.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/admin/pilotage/SocketCamera.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/admin/pilotage/CameraSource.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/admin/pilotage/GenuineCamera.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/admin/pilotage/HttpCamera.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/admin/pilotage/BitmapCamera.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/admin/pilotage/WebCamBroadcaster.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/google/android/gms/samples/vision/face/facetracker/ui/camera/CameraSourcePreview.java" />
+        <option value="$PROJECT_DIR$/javadrone-api/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/settings.gradle" />
+        <option value="$PROJECT_DIR$/local.properties" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/admin/pilotage/FaceGraphic.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/admin/pilotage/BufferedVideoImage.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/admin/pilotage/MyHandler.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/admin/pilotage/MainActivityInclinaison.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/admin/pilotage/VideoManager.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/admin/VideoDecoding/ImageSlice.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/admin/VideoDecoding/MacroBlock.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/admin/VideoDecoding2/ARDrone20VideoDataDecoder.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/admin/VideoDecoding2/BufferedVideoImage.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/admin/VideoDecoding/BufferedVideoImage.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/codeminders/ardrone/VideoDataDecoder.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/codeminders/ardrone/ARDrone.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/twilight/h264/player/PlayerFrame.java" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/admin/pilotage/DroneManager.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/twilight/h264/decoder/MpegEncContext.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/admin/VideoDecoding/ARDroneDataReader.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/admin/facedetection/FaceDetection.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/admin/pilotage/MyClientThread.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/admin/pilotage/SettingStartupActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/admin/pilotage/Processing.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/admin/pilotage/PhotoSaver.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/content_activitytest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/admin/pilotage/activitytest.java" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/admin/pilotage/View.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/admin/pilotage/ViewImpl.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/admin/pilotage/ViewTest.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main_pilotage.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/admin/VideoDecoding/VideoDataDecoder.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/twilight/h264/util/FrameUtils.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/twilight/h264/decoder/DebugTool.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/content_setting_startup.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/admin/pilotage/MainActivityPilotage.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/admin/VideoDecoding/ARDrone20VideoDataDecoder.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/admin/VideoDecoding/DataDecoder.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="110" />
+    <option name="y" value="-24" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="_1" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="_1" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="_1" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_1" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_1" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="VideoDecoding" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_1" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="h264" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_1" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+            </path>
+            <path>
+              <item name="_1" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="_1" type="58d84e3e:PackageViewProjectNode" />
+              <item name="app" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="pilotage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="_1" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\kelia\Documents\Ecole\ER4\Gaspard\_1" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="huawei-nova_can_l11-FPFDU16930015368" />
+    <property name="DEBUGGABLE_PROCESS" value="com.example.admin.pilotage" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="FPFDU16930015368" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-04-09T08:48:22.568Z" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Default Config" />
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.admin.pilotage" />
+    </key>
+    <key name="android.template.packageName">
+      <recent name="com.example.admin.pilotage" />
+    </key>
+    <key name="android.template.parentActivityClass">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\bureau\_1\app\src\main\java\com\example\admin\facedetection" />
+      <recent name="D:\bureau\_1\app\src\main\java\com\example\facedetection\admin" />
+      <recent name="D:\bureau\_1\app\src\main\java\com\example\admin" />
+      <recent name="D:\bureau\_1\app\src\main\java\com\example\admin\VideoDecoding" />
+      <recent name="D:\bureau\_1\app\src\main\java\com\example\admin\pilotage" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_1 [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle._1 [clean]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c12eaf18-c492-4299-b2dc-ea5fbf3196df" name="Default Changelist" comment="" />
+      <created>1580393314359</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580393314359</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Captures" order="0" sideWeight="0.50857145" side_tool="true" weight="0.24054463" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49142858" visible="true" weight="0.24054463" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Build Variants" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info id="Resources Explorer" order="6" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Favorites" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="0" weight="0.45714286" />
+      <window_info anchor="bottom" id="Run" order="1" sideWeight="0.49924356" weight="0.3277311" />
+      <window_info anchor="bottom" id="Logcat" order="2" weight="0.7277311" />
+      <window_info anchor="bottom" id="TODO" order="3" weight="0.32941177" />
+      <window_info anchor="bottom" id="Android Profiler" order="4" weight="0.94957983" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.594958" />
+      <window_info anchor="bottom" id="Terminal" order="6" weight="0.32941177" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50075644" side_tool="true" weight="0.3277311" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.7058824" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32941177" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" weight="0.32980332" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Gradle" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Preview" order="5" />
+      <window_info anchor="right" id="Assistant" order="6" weight="0.32980332" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/admin/pilotage/MainActivityPilotage.java</url>
+          <line>225</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/admin/pilotage/MainActivityPilotage.java</url>
+          <line>222</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/admin/pilotage/MainActivityPilotage.java</url>
+          <line>554</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="app">
+        <watch expression="canvas.mFinalizer" />
+        <watch expression="inbuf_int" language="JAVA" />
+        <watch expression="mutable" />
+        <watch expression="btm" language="JAVA" />
+        <watch expression="mPreview.mXfermode" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/admin/facedetection/MainActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="19" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/admin/pilotage/MyClientThread.java" />
+    <entry file="file://$PROJECT_DIR$/app/app.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/admin/pilotage/Inclinaison.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/admin/pilotage/JoystickMovedListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/admin/pilotage/MySQLite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/admin/pilotage/NavData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/admin/pilotage/Navdata_BDD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/admin/pilotage/NavdataManager_BDD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-29/android.jar!/android/os/Handler.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-29/android.jar!/android/view/View.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-29/android.jar!/android/graphics/Bitmap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="71" column="18" selection-start-line="71" selection-start-column="18" selection-end-line="71" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-29/android.jar!/android/content/DialogInterface.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_activitytest.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/admin/pilotage/activitytest.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/admin/pilotage/ViewImpl.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/admin/pilotage/JoystickView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-29/android.jar!/android/view/ViewGroup.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-29/android.jar!/android/widget/TextView.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="1366" column="23" selection-start-line="1366" selection-start-column="23" selection-end-line="1366" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main_pilotage.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="171" column="25" selection-start-line="171" selection-start-column="25" selection-end-line="171" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/twilight/h264/decoder/H264Data.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/twilight/h264/util/CountingInputStream.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/twilight/h264/util/Buffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/twilight/h264/decoder/AVPicture.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/twilight/h264/decoder/AVComponentDescriptor.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/twilight/h264/util/FrameUtils.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/twilight/h264/decoder/H264Decoder.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/twilight/h264/decoder/MpegEncContext.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/twilight/h264/util/Frame.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/twilight/h264/decoder/AVFrame.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/twilight/h264/decoder/AVPacket.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/twilight/h264/decoder/DebugTool.java" />
+    <entry file="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-29/android.jar!/android/app/Activity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1050" column="22" selection-start-line="1050" selection-start-column="22" selection-end-line="1050" selection-end-column="22" />
+          <folding>
+            <element signature="e#30731#30732#0" expanded="true" />
+            <element signature="e#30782#30783#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/admin/pilotage/ViewTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/admin/pilotage/PhotoSaver.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/admin/pilotage/Processing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/admin/pilotage/Pilotage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1104">
+          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/admin/VideoDecoding/VideoDataDecoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/admin/pilotage/DroneManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3888">
+          <caret line="174" column="51" selection-start-line="174" selection-start-column="46" selection-end-line="174" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/admin/pilotage/GamepadManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/admin/VideoDecoding/ARDroneDataReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/admin/pilotage/SettingStartupActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/admin/facedetection/FaceDetection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2880">
+          <caret line="153" column="22" selection-start-line="153" selection-start-column="22" selection-end-line="153" selection-end-column="22" />
+          <folding>
+            <element signature="e#554#1007#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/admin/VideoDecoding/ARDrone20VideoDataDecoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7248">
+          <caret line="302" lean-forward="true" selection-start-line="302" selection-end-line="302" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_setting_startup.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_setting_startup.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/admin/VideoDecoding/DataDecoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1014">
+          <caret line="45" column="2" lean-forward="true" selection-start-line="45" selection-start-column="2" selection-end-line="45" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/admin/pilotage/MainActivityPilotage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="95" column="37" lean-forward="true" selection-start-line="95" selection-start-column="37" selection-end-line="95" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4690#4718#0" />
+            <element signature="e#5259#5352#0" />
+            <element signature="e#6813#7301#1" />
+            <element signature="e#7502#7560#0" />
+            <element signature="class#7698:8255" />
+            <element signature="e#8267#8325#0" />
+            <element signature="class#8464:9016" />
+            <element signature="method#OnMoved#0;class#8464:9016" />
+            <element signature="e#9030#10565#0" />
+            <element signature="e#10571#12540#0" />
+            <element signature="e#12546#12819#0" />
+            <element signature="e#12825#13214#0" />
+            <element signature="e#13220#13406#0" />
+            <element signature="e#13412#13568#0" />
+            <element signature="e#13575#13825#0" />
+            <element signature="e#13831#14356#0" />
+            <element signature="e#14362#14682#0" />
+            <element signature="e#14689#15036#0" />
+            <element signature="e#15317#15521#0" />
+            <element signature="e#15527#15788#0" />
+            <element signature="e#15794#16187#0" />
+            <element signature="e#16191#16922#0" />
+            <element signature="e#16926#19812#0" />
+            <element signature="e#19975#20010#0" />
+            <element signature="e#20267#20895#0" />
+            <element signature="e#20898#21828#0" />
+            <element signature="e#21831#22137#0" />
+            <element signature="e#22141#22414#0" />
+            <element signature="e#22418#23331#0" />
+            <element signature="e#23337#27417#0" />
+            <element signature="e#27423#28971#0" />
+            <element signature="e#27506#27552#0" />
+            <element signature="e#27677#28195#0" />
+            <element signature="e#28205#28248#0" />
+            <element signature="e#28650#28720#0" />
+            <element signature="e#28753#28791#0" />
+            <element signature="e#28804#28871#0" />
+            <element signature="e#28904#28942#0" />
+            <element signature="e#30715#30789#0" />
+            <element signature="e#30875#30876#0" expanded="true" />
+            <element signature="e#30906#30907#0" expanded="true" />
+            <element signature="e#30913#31144#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
