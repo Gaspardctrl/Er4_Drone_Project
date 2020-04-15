@@ -1,5 +1,7 @@
 ## Drone Er4 :
 
+![alt text](https://github.com/Gaspardctrl/Er4_Drone_Project/blob/master/Parrot_AR_Drone.jpg)
+
 Project, Geii : realisation of an app to control a drone.
 Final objective : the drone has to follow the face on the user.
 Project finished on april 15,2020.
