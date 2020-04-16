@@ -59,22 +59,18 @@ public class ARDrone20VideoDataDecoder extends VideoDataDecoder {
 
     public static final int INBUF_SIZE = 255535;
 
-    H264Decoder codec;
-    MpegEncContext c = null;
 
     int len;
     int[] got_picture = new int[1];
 
-    AVFrame picture;
 
-    byte[] inbuf = new byte[INBUF_SIZE + MpegEncContext.FF_INPUT_BUFFER_PADDING_SIZE];
-    int[] inbuf_int = new int[INBUF_SIZE + MpegEncContext.FF_INPUT_BUFFER_PADDING_SIZE];
+    byte[] inbuf = new byte[INBUF_SIZE ];
+    int[] inbuf_int = new int[INBUF_SIZE];
     private int[] buffer = null;
 
     InputStream fin;
     MainActivityPilotage MainDrone;
 
-    AVPacket avpkt;
 
     int dataPointer;
 
@@ -82,28 +78,6 @@ public class ARDrone20VideoDataDecoder extends VideoDataDecoder {
     public ARDrone20VideoDataDecoder(MainActivityPilotage main, InputStream in) {
         this.MainDrone = main;
         this.fin = in;
-
-        avpkt = new AVPacket();
-        avpkt.av_init_packet();
-
-        Arrays.fill(inbuf, INBUF_SIZE, MpegEncContext.FF_INPUT_BUFFER_PADDING_SIZE + INBUF_SIZE, (byte)0);
-
-        codec = new H264Decoder();
-        if (codec == null) {
-            System.out.println("codec not found\n");
-            System.exit(1);
-        }
-
-        c = MpegEncContext.avcodec_alloc_context();
-        picture= AVFrame.avcodec_alloc_frame();
-
-        if((codec.capabilities & H264Decoder.CODEC_CAP_TRUNCATED)!=0)
-            c.flags |= MpegEncContext.CODEC_FLAG_TRUNCATED; /* we do not send complete frames */
-
-        if (c.avcodec_open(codec) < 0) {
-            System.out.println("could not open codec\n");
-            System.exit(1);
-        }
     }
 
     @Override
@@ -158,6 +132,7 @@ public class ARDrone20VideoDataDecoder extends VideoDataDecoder {
                                 inbuf_int[dataPointer++] = fin.read();
                                 //Log.e("H264","skip");
                             }
+                            fin.read(inbuf);
                             avpkt.size = dataPointer;
                             // Log.e("h264","Sended");
                             avpkt.data_base = inbuf_int;

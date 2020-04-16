@@ -7,96 +7,95 @@
 7
 8    <uses-sdk
 9        android:minSdkVersion="21"
-9-->D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml
+9-->D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml
 10        android:targetSdkVersion="29" />
-10-->D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml
+10-->D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml
 11
 12    <uses-feature android:name="android.hardware.camera" />
-12-->D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:8:5-60
-12-->D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:8:19-57
+12-->D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:8:5-60
+12-->D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:8:19-57
 13
 14    <uses-permission android:name="android.permission.CAMERA" />
-14-->D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:10:5-65
-14-->D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:10:22-62
+14-->D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:10:5-65
+14-->D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:10:22-62
 15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-15-->D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:11:5-81
-15-->D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:11:22-78
+15-->D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:11:5-81
+15-->D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:11:22-78
 16    <uses-permission android:name="android.permission.INTERNET" />
-16-->D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:12:5-67
-16-->D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:12:22-64
+16-->D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:12:5-67
+16-->D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:12:22-64
 17    <uses-permission android:name="android.permission.CHANGE_WIFI_MULTICAST_STATE" />
-17-->D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:13:5-86
-17-->D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:13:22-83
+17-->D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:13:5-86
+17-->D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:13:22-83
 18    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-18-->D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:14:5-76
-18-->D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:14:22-73
+18-->D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:14:5-76
+18-->D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:14:22-73
 19    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-19-->D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:15:5-79
-19-->D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:15:22-76
+19-->D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:15:5-79
+19-->D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:15:22-76
 20    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-20-->D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:14:5-76
-20-->D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:14:22-73
+20-->D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:14:5-76
+20-->D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:14:22-73
 21    <uses-permission android:name="android.permission.BROADCAST_STICKY" />
-21-->D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:17:5-75
-21-->D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:17:22-72
+21-->D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:17:5-75
+21-->D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:17:22-72
 22    <uses-permission android:name="android.permission.RECORD_VIDEO" />
-22-->D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:18:5-71
-22-->D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:18:22-68
+22-->D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:18:5-71
+22-->D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:18:22-68
 23    <uses-permission android:name="android.permission.RECORD_AUDIO" />
-23-->D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:19:5-71
-23-->D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:19:22-68
+23-->D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:19:5-71
+23-->D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:19:22-68
 24
 25    <application
-25-->D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:21:5-38:19
+25-->D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:21:5-38:19
 26        android:allowBackup="true"
-26-->D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:22:9-35
+26-->D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:22:9-35
 27        android:debuggable="true"
 28        android:hardwareAccelerated="true"
-28-->D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:23:9-43
+28-->D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:23:9-43
 29        android:icon="@drawable/app_icon"
-29-->D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:24:9-42
+29-->D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:24:9-42
 30        android:label="GEIIArdrone2016 V31"
-30-->D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:25:9-44
+30-->D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:25:9-44
 31        android:supportsRtl="true"
-31-->D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:26:9-35
-32        android:testOnly="true"
-33        android:theme="@style/AppTheme" >
-33-->D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:27:9-40
-34        <activity android:name="com.example.admin.pilotage.SettingStartupActivity" >
-34-->D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:28:9-34:20
-34-->D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:28:19-57
-35            <intent-filter>
-35-->D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:29:13-33:29
-36                <action android:name="android.intent.action.MAIN" />
-36-->D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:30:17-69
-36-->D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:30:25-66
-37
-38                <category android:name="android.intent.category.LAUNCHER" />
-38-->D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:32:17-77
-38-->D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:32:27-74
-39            </intent-filter>
-40        </activity>
-41        <activity
-41-->D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:35:9-37:49
-42            android:name="com.example.admin.pilotage.MainActivityPilotage"
-42-->D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:36:13-49
-43            android:noHistory="true" />
-43-->D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:37:13-37
-44        <activity
-44-->[com.google.android.gms:play-services-base:9.4.0] C:\Users\gaspa\.gradle\caches\transforms-2\files-2.1\cc6bcb91f835922175c520064a98695f\play-services-base-9.4.0\AndroidManifest.xml:20:9-22:45
-45            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-45-->[com.google.android.gms:play-services-base:9.4.0] C:\Users\gaspa\.gradle\caches\transforms-2\files-2.1\cc6bcb91f835922175c520064a98695f\play-services-base-9.4.0\AndroidManifest.xml:20:19-85
-46            android:exported="false"
-46-->[com.google.android.gms:play-services-base:9.4.0] C:\Users\gaspa\.gradle\caches\transforms-2\files-2.1\cc6bcb91f835922175c520064a98695f\play-services-base-9.4.0\AndroidManifest.xml:22:19-43
-47            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-47-->[com.google.android.gms:play-services-base:9.4.0] C:\Users\gaspa\.gradle\caches\transforms-2\files-2.1\cc6bcb91f835922175c520064a98695f\play-services-base-9.4.0\AndroidManifest.xml:21:19-78
-48
-49        <meta-data
-49-->[com.google.android.gms:play-services-basement:9.4.0] C:\Users\gaspa\.gradle\caches\transforms-2\files-2.1\5fb9425add535b61a16c42032d7a255c\play-services-basement-9.4.0\AndroidManifest.xml:21:9-23:69
-50            android:name="com.google.android.gms.version"
-50-->[com.google.android.gms:play-services-basement:9.4.0] C:\Users\gaspa\.gradle\caches\transforms-2\files-2.1\5fb9425add535b61a16c42032d7a255c\play-services-basement-9.4.0\AndroidManifest.xml:22:13-58
-51            android:value="@integer/google_play_services_version" />
-51-->[com.google.android.gms:play-services-basement:9.4.0] C:\Users\gaspa\.gradle\caches\transforms-2\files-2.1\5fb9425add535b61a16c42032d7a255c\play-services-basement-9.4.0\AndroidManifest.xml:23:13-66
-52    </application>
-53
-54</manifest>
+31-->D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:26:9-35
+32        android:theme="@style/AppTheme" >
+32-->D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:27:9-40
+33        <activity android:name="com.example.admin.pilotage.SettingStartupActivity" >
+33-->D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:28:9-34:20
+33-->D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:28:19-57
+34            <intent-filter>
+34-->D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:29:13-33:29
+35                <action android:name="android.intent.action.MAIN" />
+35-->D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:30:17-69
+35-->D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:30:25-66
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:32:17-77
+37-->D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:32:27-74
+38            </intent-filter>
+39        </activity>
+40        <activity
+40-->D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:35:9-37:49
+41            android:name="com.example.admin.pilotage.MainActivityPilotage"
+41-->D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:36:13-49
+42            android:noHistory="true" />
+42-->D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:37:13-37
+43        <activity
+43-->[com.google.android.gms:play-services-base:9.4.0] C:\Users\gaspa\.gradle\caches\transforms-2\files-2.1\1a16594cffa0d2523633cb4c2bdf8fd2\play-services-base-9.4.0\AndroidManifest.xml:20:9-22:45
+44            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+44-->[com.google.android.gms:play-services-base:9.4.0] C:\Users\gaspa\.gradle\caches\transforms-2\files-2.1\1a16594cffa0d2523633cb4c2bdf8fd2\play-services-base-9.4.0\AndroidManifest.xml:20:19-85
+45            android:exported="false"
+45-->[com.google.android.gms:play-services-base:9.4.0] C:\Users\gaspa\.gradle\caches\transforms-2\files-2.1\1a16594cffa0d2523633cb4c2bdf8fd2\play-services-base-9.4.0\AndroidManifest.xml:22:19-43
+46            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+46-->[com.google.android.gms:play-services-base:9.4.0] C:\Users\gaspa\.gradle\caches\transforms-2\files-2.1\1a16594cffa0d2523633cb4c2bdf8fd2\play-services-base-9.4.0\AndroidManifest.xml:21:19-78
+47
+48        <meta-data
+48-->[com.google.android.gms:play-services-basement:9.4.0] C:\Users\gaspa\.gradle\caches\transforms-2\files-2.1\72915f5c506e6abd7e70e4e1a986e64e\play-services-basement-9.4.0\AndroidManifest.xml:21:9-23:69
+49            android:name="com.google.android.gms.version"
+49-->[com.google.android.gms:play-services-basement:9.4.0] C:\Users\gaspa\.gradle\caches\transforms-2\files-2.1\72915f5c506e6abd7e70e4e1a986e64e\play-services-basement-9.4.0\AndroidManifest.xml:22:13-58
+50            android:value="@integer/google_play_services_version" />
+50-->[com.google.android.gms:play-services-basement:9.4.0] C:\Users\gaspa\.gradle\caches\transforms-2\files-2.1\72915f5c506e6abd7e70e4e1a986e64e\play-services-basement-9.4.0\AndroidManifest.xml:23:13-66
+51    </application>
+52
+53</manifest>
