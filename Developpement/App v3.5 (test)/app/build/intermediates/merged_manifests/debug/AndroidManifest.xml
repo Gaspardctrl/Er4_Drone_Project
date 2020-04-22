@@ -29,6 +29,7 @@
         android:icon="@drawable/app_icon"
         android:label="GEIIArdrone2016 V31"
         android:supportsRtl="true"
+        android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity android:name="com.example.admin.pilotage.SettingStartupActivity" >
             <intent-filter>
