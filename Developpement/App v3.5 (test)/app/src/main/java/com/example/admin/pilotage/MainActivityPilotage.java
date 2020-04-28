@@ -3,6 +3,7 @@ package com.example.admin.pilotage;
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.app.AlertDialog.Builder;
+import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.pm.ActivityInfo;
@@ -53,6 +54,7 @@ import java.util.ArrayList;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.TimeUnit;
+import java.util.logging.Level;
 
 
 /********************************************************
@@ -146,7 +148,7 @@ public class MainActivityPilotage extends Activity {
     byte[] BBuffer;
 
     DisplayMetrics metrics;
-    ImageView mPreview;
+    public volatile ImageView mPreview;
 
 
 
@@ -172,8 +174,8 @@ public class MainActivityPilotage extends Activity {
     int iPad;
     double dJoy1X, dJoy1Y,dJoy2X, dJoy2Y;
     GamepadManager Manette;
-    boolean videoReceived;
-    TextView TextVideo;
+    volatile boolean videoReceived;
+    public TextView TextVideo;
 
 //    void test(Bitmap btm){
 //
@@ -200,7 +202,6 @@ public class MainActivityPilotage extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
 
-
         /**
         Notre Handler est ici :
         son fonctionement est plutot basique.
@@ -215,20 +216,28 @@ public class MainActivityPilotage extends Activity {
             Bitmap btm;
             @Override
             public void handleMessage(Message msg) {
+                super.handleMessage(msg);
+                mPreview = (ImageView) findViewById(R.id.preview);
                 if(msg != null) {
                     btm = (Bitmap) msg.obj;
 //                    mPreview.invalidate();
 //                    mPreview.setImageBitmap(btm);
                    //test(btm);
-                    videoReceived = true;
                     runOnUiThread(new Runnable() {
                         public void run() {
-                            mPreview.setImageBitmap(btm);
+                            Thread.currentThread().setName("Display (on ui)");
+                            try{
+                                mPreview.setImageBitmap(btm);
+                                mPreview.invalidate();
+                            } catch (Exception ex) {
+                                Log.e("AFFICHAGE", "Error in decoder initialization", ex);
+                            }
+                            TextVideo.setText("Yesssssssssssssssssss");
+                            videoReceived = true;
                         }
+
                     });
-                   // TextVideo.setBackground(new BitmapDrawable(getResources(), btm));
                 }
-                super.handleMessage(msg);
             }
         };
         super.onCreate(savedInstanceState);
@@ -244,17 +253,17 @@ public class MainActivityPilotage extends Activity {
         mDrone = new DroneManager();
         mNavData = new NavData();
         mNavDataManager = new NavdataManager_BDD(this);
-
         //Initialisation video si paramètre activer
         if(bActivationVideo==true){
-
+        final MainActivityPilotage Main = this;
             new AsyncTask<Void, Void, Void>() {
 
                 @Override
                 protected Void doInBackground(Void... unused) {
                     // Background Code
+                    Thread.currentThread().setName("AsyncTask start video");
                     try {
-                        InitialiseVideo();
+                        InitialiseVideo(Main);
                     }
                     catch (Exception e){
                         Log.i("Video Thread","Failed to Launch");
@@ -451,7 +460,10 @@ public class MainActivityPilotage extends Activity {
     // Instruction de la tache periodique
     class PeriodicSendFlyCommand implements Runnable {
             public void run() {
-
+                if (Looper.getMainLooper().getThread() == Thread.currentThread()) {
+                    Log.e("LOOPER UI","PeriodicSendFlyCommand is in main looper");
+                }
+                Thread.currentThread().setName("PeriodicSendFlyCommand");
                 BBuffer = mDrone.GetBuffer();
 
 				// Recupération des NavData dans variables correspondantes a partir du buffer
@@ -470,7 +482,10 @@ public class MainActivityPilotage extends Activity {
 
     class PeriodicRecordingBDD implements Runnable {
         public void run() {
-
+            if (Looper.getMainLooper().getThread() == Thread.currentThread()) {
+                Log.e("LOOPER UI","PeriodicRecordingBDD is in main looper");
+            }
+            Thread.currentThread().setName("PeriodicRecordingBDD");
             if(bDroneEnVol == true) {
                 mNavDataManager.open();
                 mNavDataManager.addNavdata(new Navdata_BDD(0, sNavBatterie, sNavAv_Ar, sNavRot, sNavG_D, sNavSpeed, sNavAltitude));
@@ -483,6 +498,10 @@ public class MainActivityPilotage extends Activity {
 
     class PeriodicSendWDCommand implements Runnable {
         public void run() {
+            if (Looper.getMainLooper().getThread() == Thread.currentThread()) {
+                Log.e("LOOPER UI","PeriodicSendWDCommand is in main looper");
+            }
+            Thread.currentThread().setName("PeriodicSendWDCommand");
             // LES 2 LIGNES CI-DESSOUS SONT A DECOMMENTER SI ON TEST LE WATCHDOG
             strATCWD = mPilot.WatchDog();
             mDrone.SendCMD(strATCWD);
@@ -490,23 +509,29 @@ public class MainActivityPilotage extends Activity {
             runOnUiThread(new Maj_UI_BITMAP());
         }
 
-    }int i = 0;
+    }
 
     class Maj_UI_BITMAP implements Runnable {
         //permet d'informer quand la permière image de la vidéo arrive
         //mais tout comme l'affichage des bitmaps ce n'est pas fonctionel.
+
         public void run() {
+            Thread.currentThread().setName("Maj_UI_BITMAP(on ui)");
             if(videoReceived){
                 TextVideo.setText("videoReceived");
-            }else{
-                TextVideo.setText(""+i);
+                TextVideo.setText("videoReceived");
+                TextVideo.setText("videoReceived");
+                TextVideo.setText("videoReceived");
+                TextVideo.setText("videoReceived");
             }
-            i++;
+
         }
     }
 
     class Maj_UI_WD implements Runnable {
+
         public void run() {
+            Thread.currentThread().setName("Maj_UI_WD(on ui)");
             if(bDebugMode==true) {
                 txtATComand.setText(strATCWD);
             }
@@ -634,16 +659,16 @@ public class MainActivityPilotage extends Activity {
 
 
     public static String Video_IP = "192.168.1.1";
-    public static final int Video_PORT = 5555;
+    public static final int Video_PORT = 5556;
 
-	private void InitialiseVideo() throws IOException {
+	private void InitialiseVideo(MainActivityPilotage Main) throws IOException {
         Socket mSocket = null;
         InputStream inStream = null;
 
         mSocket = new Socket(Video_IP, Video_PORT);
         inStream = mSocket.getInputStream();
 
-        ARDrone20VideoDataDecoder videoDecoder = new ARDrone20VideoDataDecoder(this, inStream);
+        ARDrone20VideoDataDecoder videoDecoder = new ARDrone20VideoDataDecoder(Main, inStream);
         videoDecoder.execute();
 
 	}

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\bureau\\ArDrone\\3\\_1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ca\\values-ca.xml",
+            "outputFile": "D:\\DOCU\\GitHub\\Er4_Drone_Project\\Developpement\\App v3.5 (test)\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ca\\values-ca.xml",
             "map": [
                 {
                     "source": "C:\\Users\\gaspa\\.gradle\\caches\\transforms-2\\files-2.1\\5fb9425add535b61a16c42032d7a255c\\play-services-basement-9.4.0\\res\\values-ca\\values.xml",

@@ -1,5 +1,6 @@
 package com.example.admin.pilotage;
 
+import android.os.Looper;
 import android.util.Log;
 
 import java.io.IOException;
@@ -163,7 +164,10 @@ public class DroneManager {
     class TComUDP implements Runnable {
 
         public void run() {
-
+            if (Looper.getMainLooper().getThread() == Thread.currentThread()) {
+                Log.e("LOOPER UI","TComUDP is in main looper");
+            }
+            Thread.currentThread().setName("TComUDP");
             do {
 
                 if (bInit == false) {

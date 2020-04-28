@@ -15,8 +15,11 @@
         android:id="@+id/preview"
         android:layout_width="fill_parent"
         android:layout_height="match_parent"
+        android:background="#7CE91E63"
+        android:backgroundTint="#E91E63"
         android:scaleType="fitXY"
-        android:src="@drawable/common_google_signin_btn_icon_light"/>
+        android:visibility="visible"
+        tools:visibility="visible" />
 
     <TextView android:text="@string/AT_CMD" android:layout_width="wrap_content"
         android:layout_height="wrap_content"

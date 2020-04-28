@@ -43,7 +43,6 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="FPFDU16930015368" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -57,74 +56,7 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/admin/VideoDecoding/ARDrone20VideoDataDecoder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7248">
-              <caret line="302" lean-forward="true" selection-start-line="302" selection-end-line="302" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/admin/pilotage/MainActivityPilotage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="95" column="37" lean-forward="true" selection-start-line="95" selection-start-column="37" selection-end-line="95" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#4690#4718#0" />
-                <element signature="e#5259#5352#0" />
-                <element signature="e#6813#7301#1" />
-                <element signature="e#7502#7560#0" />
-                <element signature="class#7698:8255" />
-                <element signature="e#8267#8325#0" />
-                <element signature="class#8464:9016" />
-                <element signature="method#OnMoved#0;class#8464:9016" />
-                <element signature="e#9030#10565#0" />
-                <element signature="e#10571#12540#0" />
-                <element signature="e#12546#12819#0" />
-                <element signature="e#12825#13214#0" />
-                <element signature="e#13220#13406#0" />
-                <element signature="e#13412#13568#0" />
-                <element signature="e#13575#13825#0" />
-                <element signature="e#13831#14356#0" />
-                <element signature="e#14362#14682#0" />
-                <element signature="e#14689#15036#0" />
-                <element signature="e#15317#15521#0" />
-                <element signature="e#15527#15788#0" />
-                <element signature="e#15794#16187#0" />
-                <element signature="e#16191#16922#0" />
-                <element signature="e#16926#19812#0" />
-                <element signature="e#19975#20010#0" />
-                <element signature="e#20267#20895#0" />
-                <element signature="e#20898#21828#0" />
-                <element signature="e#21831#22137#0" />
-                <element signature="e#22141#22414#0" />
-                <element signature="e#22418#23331#0" />
-                <element signature="e#23337#27417#0" />
-                <element signature="e#27423#28971#0" />
-                <element signature="e#27506#27552#0" />
-                <element signature="e#27677#28195#0" />
-                <element signature="e#28205#28248#0" />
-                <element signature="e#28650#28720#0" />
-                <element signature="e#28753#28791#0" />
-                <element signature="e#28804#28871#0" />
-                <element signature="e#28904#28942#0" />
-                <element signature="e#30715#30789#0" />
-                <element signature="e#30875#30876#0" expanded="true" />
-                <element signature="e#30906#30907#0" expanded="true" />
-                <element signature="e#30913#31144#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -168,7 +100,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -226,9 +158,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="110" />
-    <option name="y" value="-24" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-11" />
+    <option name="y" value="84" />
     <option name="width" value="1382" />
     <option name="height" value="754" />
   </component>
@@ -238,56 +170,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView">
-        <subPane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
             <path>
-              <item name="_1" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-            </path>
-            <path>
-              <item name="_1" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-            </path>
-            <path>
-              <item name="_1" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="_1" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="_1" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
-              <item name="VideoDecoding" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="_1" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="h264" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="_1" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
-            </path>
-            <path>
-              <item name="_1" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
-              <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
+              <item name="_1" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\kelia\Documents\Ecole\ER4\Gaspard\_1" type="442cc68d:ScopeViewTreeModel$RootNode" />
             </path>
           </expand>
           <select />
@@ -299,6 +187,35 @@
             <path>
               <item name="_1" type="58d84e3e:PackageViewProjectNode" />
               <item name="app" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="App v3.4" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="e9137016:NonAndroidModuleNode" />
+            </path>
+            <path>
+              <item name="App v3.4" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="e9137016:NonAndroidModuleNode" />
+              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="App v3.4" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="e9137016:NonAndroidModuleNode" />
+              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="App v3.4" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="e9137016:NonAndroidModuleNode" />
+              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -388,17 +305,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="_1" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="C:\Users\kelia\Documents\Ecole\ER4\Gaspard\_1" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -410,7 +316,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHOW_ALL_PROCESSES" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Developpement/App v3.5 (test)" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -558,8 +464,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
-    <editor active="true" />
+    <frame x="-11" y="84" width="1382" height="754" extended-state="0" />
     <layout>
       <window_info id="Captures" order="0" sideWeight="0.50857145" side_tool="true" weight="0.24054463" />
       <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49142858" visible="true" weight="0.24054463" />
@@ -574,7 +479,7 @@
       <window_info anchor="bottom" id="Run" order="1" sideWeight="0.49924356" weight="0.3277311" />
       <window_info anchor="bottom" id="Logcat" order="2" weight="0.7277311" />
       <window_info anchor="bottom" id="TODO" order="3" weight="0.32941177" />
-      <window_info anchor="bottom" id="Android Profiler" order="4" weight="0.94957983" />
+      <window_info anchor="bottom" id="Android Profiler" order="4" show_stripe_button="false" weight="0.94957983" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.594958" />
       <window_info anchor="bottom" id="Terminal" order="6" weight="0.32941177" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50075644" side_tool="true" weight="0.3277311" />
@@ -841,26 +746,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/admin/facedetection/FaceDetection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2880">
-          <caret line="153" column="22" selection-start-line="153" selection-start-column="22" selection-end-line="153" selection-end-column="22" />
-          <folding>
-            <element signature="e#554#1007#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/admin/VideoDecoding/ARDrone20VideoDataDecoder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7248">
-          <caret line="302" lean-forward="true" selection-start-line="302" selection-end-line="302" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/admin/facedetection/FaceDetection.java" />
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_setting_startup.xml">
       <provider selected="true" editor-type-id="android-designer2" />
       <provider editor-type-id="text-editor" />
@@ -879,51 +765,19 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/admin/pilotage/MainActivityPilotage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
-          <caret line="95" column="37" lean-forward="true" selection-start-line="95" selection-start-column="37" selection-end-line="95" selection-end-column="37" />
+          <caret line="95" column="37" selection-start-line="95" selection-start-column="37" selection-end-line="95" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#4690#4718#0" />
-            <element signature="e#5259#5352#0" />
-            <element signature="e#6813#7301#1" />
-            <element signature="e#7502#7560#0" />
-            <element signature="class#7698:8255" />
-            <element signature="e#8267#8325#0" />
-            <element signature="class#8464:9016" />
-            <element signature="method#OnMoved#0;class#8464:9016" />
-            <element signature="e#9030#10565#0" />
-            <element signature="e#10571#12540#0" />
-            <element signature="e#12546#12819#0" />
-            <element signature="e#12825#13214#0" />
-            <element signature="e#13220#13406#0" />
-            <element signature="e#13412#13568#0" />
-            <element signature="e#13575#13825#0" />
-            <element signature="e#13831#14356#0" />
-            <element signature="e#14362#14682#0" />
-            <element signature="e#14689#15036#0" />
-            <element signature="e#15317#15521#0" />
-            <element signature="e#15527#15788#0" />
-            <element signature="e#15794#16187#0" />
-            <element signature="e#16191#16922#0" />
-            <element signature="e#16926#19812#0" />
-            <element signature="e#19975#20010#0" />
-            <element signature="e#20267#20895#0" />
-            <element signature="e#20898#21828#0" />
-            <element signature="e#21831#22137#0" />
-            <element signature="e#22141#22414#0" />
-            <element signature="e#22418#23331#0" />
-            <element signature="e#23337#27417#0" />
-            <element signature="e#27423#28971#0" />
-            <element signature="e#27506#27552#0" />
-            <element signature="e#27677#28195#0" />
-            <element signature="e#28205#28248#0" />
-            <element signature="e#28650#28720#0" />
-            <element signature="e#28753#28791#0" />
-            <element signature="e#28804#28871#0" />
-            <element signature="e#28904#28942#0" />
-            <element signature="e#30715#30789#0" />
-            <element signature="e#30875#30876#0" expanded="true" />
-            <element signature="e#30906#30907#0" expanded="true" />
-            <element signature="e#30913#31144#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/admin/VideoDecoding/ARDrone20VideoDataDecoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="302" selection-start-line="302" selection-end-line="302" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

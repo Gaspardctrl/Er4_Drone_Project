@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:2:1-40:12
-INJECTED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:2:1-40:12
-INJECTED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:2:1-40:12
-INJECTED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:2:1-40:12
+ADDED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:2:1-40:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\gaspa\.gradle\caches\transforms-2\files-2.1\008c8b69eef145b955d4d9e9784aa5e4\constraint-layout-1.1.3\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:design:24.2.0] C:\Users\gaspa\.gradle\caches\transforms-2\files-2.1\bd4fb63300282a67420c6eaebb353f3e\design-24.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:24.2.0] C:\Users\gaspa\.gradle\caches\transforms-2\files-2.1\861c38255223509cc793b302d28588be\appcompat-v7-24.2.0\AndroidManifest.xml:17:1-27:12
@@ -20,67 +20,67 @@ MERGED from [com.android.support:support-core-ui:24.2.0] C:\Users\gaspa\.gradle\
 MERGED from [com.android.support:animated-vector-drawable:24.2.0] C:\Users\gaspa\.gradle\caches\transforms-2\files-2.1\cbca829ca67fc34fdca33cc8ae982e57\animated-vector-drawable-24.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\gaspa\.gradle\caches\transforms-2\files-2.1\d45e2e15f92caff0bc9b6e3ebffe4a09\support-vector-drawable-24.2.0\AndroidManifest.xml:17:1-25:12
 MERGED from [com.android.support:support-compat:24.2.0] C:\Users\gaspa\.gradle\caches\transforms-2\files-2.1\4a621b4720b02f11d659600164257664\support-compat-24.2.0\AndroidManifest.xml:17:1-27:12
-INJECTED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:2:1-40:12
-INJECTED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:2:1-40:12
-INJECTED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:2:1-40:12
 	package
-		ADDED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:3:5-41
-		INJECTED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml
-		INJECTED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml
+		ADDED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:6:5-28
-		INJECTED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml
-		INJECTED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml
+		ADDED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:6:5-28
+		INJECTED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:5:5-28
-		INJECTED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml
-		INJECTED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml
+		ADDED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml
 	android:installLocation
-		ADDED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:4:5-35
+		ADDED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:4:5-35
 uses-feature#android.hardware.camera
-ADDED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:8:5-60
+ADDED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:8:5-60
 	android:name
-		ADDED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:8:19-57
+		ADDED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:8:19-57
 uses-permission#android.permission.CAMERA
-ADDED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:10:5-65
+ADDED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:10:5-65
 	android:name
-		ADDED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:10:22-62
+		ADDED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:10:22-62
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:11:5-81
+ADDED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:11:5-81
 	android:name
-		ADDED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:11:22-78
+		ADDED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:11:22-78
 uses-permission#android.permission.INTERNET
-ADDED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:12:5-67
+ADDED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:12:5-67
 	android:name
-		ADDED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:12:22-64
+		ADDED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:12:22-64
 uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
-ADDED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:13:5-86
+ADDED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:13:5-86
 	android:name
-		ADDED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:13:22-83
+		ADDED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:13:22-83
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:14:5-76
+ADDED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:14:5-76
 	android:name
-		ADDED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:14:22-73
+		ADDED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:14:22-73
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:15:5-79
+ADDED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:15:5-79
 	android:name
-		ADDED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:15:22-76
+		ADDED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:15:22-76
 uses-permission#android.permission.BROADCAST_STICKY
-ADDED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:17:5-75
+ADDED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:17:5-75
 	android:name
-		ADDED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:17:22-72
+		ADDED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:17:22-72
 uses-permission#android.permission.RECORD_VIDEO
-ADDED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:18:5-71
+ADDED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:18:5-71
 	android:name
-		ADDED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:18:22-68
+		ADDED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:18:22-68
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:19:5-71
+ADDED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:19:5-71
 	android:name
-		ADDED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:19:22-68
+		ADDED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:19:22-68
 application
-ADDED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:21:5-38:19
+ADDED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:21:5-38:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\gaspa\.gradle\caches\transforms-2\files-2.1\008c8b69eef145b955d4d9e9784aa5e4\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\gaspa\.gradle\caches\transforms-2\files-2.1\008c8b69eef145b955d4d9e9784aa5e4\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:design:24.2.0] C:\Users\gaspa\.gradle\caches\transforms-2\files-2.1\bd4fb63300282a67420c6eaebb353f3e\design-24.2.0\AndroidManifest.xml:22:5-20
@@ -112,41 +112,41 @@ MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\gaspa\
 MERGED from [com.android.support:support-compat:24.2.0] C:\Users\gaspa\.gradle\caches\transforms-2\files-2.1\4a621b4720b02f11d659600164257664\support-compat-24.2.0\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-compat:24.2.0] C:\Users\gaspa\.gradle\caches\transforms-2\files-2.1\4a621b4720b02f11d659600164257664\support-compat-24.2.0\AndroidManifest.xml:25:5-20
 	android:supportsRtl
-		ADDED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:26:9-35
+		ADDED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:26:9-35
 	android:label
-		ADDED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:25:9-44
+		ADDED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:25:9-44
 	android:hardwareAccelerated
-		ADDED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:23:9-43
+		ADDED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:23:9-43
 	android:icon
-		ADDED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:24:9-42
+		ADDED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:24:9-42
 	android:allowBackup
-		ADDED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:22:9-35
+		ADDED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:22:9-35
 	android:theme
-		ADDED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:27:9-40
+		ADDED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:27:9-40
 activity#com.example.admin.pilotage.SettingStartupActivity
-ADDED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:28:9-34:20
+ADDED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:28:9-34:20
 	android:name
-		ADDED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:28:19-57
+		ADDED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:28:19-57
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:29:13-33:29
+ADDED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:29:13-33:29
 action#android.intent.action.MAIN
-ADDED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:30:17-69
+ADDED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:30:17-69
 	android:name
-		ADDED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:30:25-66
+		ADDED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:30:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:32:17-77
+ADDED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:32:17-77
 	android:name
-		ADDED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:32:27-74
+		ADDED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:32:27-74
 activity#com.example.admin.pilotage.MainActivityPilotage
-ADDED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:35:9-37:49
+ADDED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:35:9-37:49
 	android:noHistory
-		ADDED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:37:13-37
+		ADDED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:37:13-37
 	android:name
-		ADDED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml:36:13-49
+		ADDED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml:36:13-49
 uses-sdk
-INJECTED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml
-INJECTED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml
+INJECTED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml
+INJECTED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\gaspa\.gradle\caches\transforms-2\files-2.1\008c8b69eef145b955d4d9e9784aa5e4\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\gaspa\.gradle\caches\transforms-2\files-2.1\008c8b69eef145b955d4d9e9784aa5e4\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support:design:24.2.0] C:\Users\gaspa\.gradle\caches\transforms-2\files-2.1\bd4fb63300282a67420c6eaebb353f3e\design-24.2.0\AndroidManifest.xml:20:5-43
@@ -179,18 +179,18 @@ MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\gaspa\
 MERGED from [com.android.support:support-vector-drawable:24.2.0] C:\Users\gaspa\.gradle\caches\transforms-2\files-2.1\d45e2e15f92caff0bc9b6e3ebffe4a09\support-vector-drawable-24.2.0\AndroidManifest.xml:21:5-43
 MERGED from [com.android.support:support-compat:24.2.0] C:\Users\gaspa\.gradle\caches\transforms-2\files-2.1\4a621b4720b02f11d659600164257664\support-compat-24.2.0\AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-compat:24.2.0] C:\Users\gaspa\.gradle\caches\transforms-2\files-2.1\4a621b4720b02f11d659600164257664\support-compat-24.2.0\AndroidManifest.xml:21:5-23:58
-INJECTED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml
-INJECTED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml
+INJECTED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml
+INJECTED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:24.2.0] C:\Users\gaspa\.gradle\caches\transforms-2\files-2.1\861c38255223509cc793b302d28588be\appcompat-v7-24.2.0\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml
-		ADDED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml
-		INJECTED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml
+		ADDED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml
-		ADDED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml
-		INJECTED from D:\bureau\ArDrone\3\_1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml
+		ADDED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml
+		INJECTED from D:\DOCU\GitHub\Er4_Drone_Project\Developpement\App v3.5 (test)\app\src\main\AndroidManifest.xml
 activity#com.google.android.gms.common.api.GoogleApiActivity
 ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\gaspa\.gradle\caches\transforms-2\files-2.1\cc6bcb91f835922175c520064a98695f\play-services-base-9.4.0\AndroidManifest.xml:20:9-22:45
 	android:exported

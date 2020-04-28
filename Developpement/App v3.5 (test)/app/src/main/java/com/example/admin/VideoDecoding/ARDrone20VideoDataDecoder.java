@@ -8,6 +8,7 @@ import android.graphics.PointF;
 import android.graphics.Rect;
 import android.media.FaceDetector;
 import android.os.AsyncTask;
+import android.os.Looper;
 import android.os.Message;
 import android.util.DisplayMetrics;
 import android.util.Log;
@@ -104,8 +105,9 @@ public class ARDrone20VideoDataDecoder extends VideoDataDecoder {
             System.out.println("could not open codec\n");
             System.exit(1);
         }
+        Thread.currentThread().setName("ArDrone20VideoDataDecoder");
     }
-
+    Bitmap bitmapResized;
     @Override
     public Void doInBackground(Void... params) {
                     do {
@@ -128,6 +130,9 @@ public class ARDrone20VideoDataDecoder extends VideoDataDecoder {
                                 encoded_stream_width = fin.read() | fin.read() << 8;
                                 encoded_stream_height = fin.read() | fin.read() << 8;
                                 display_width = fin.read() | fin.read() << 8;
+                                if (Looper.getMainLooper().getThread() == Thread.currentThread()) {
+                                    Log.e("LOOPER UI","ARDrone20vodepDataDecoder is in main looper");
+                                }
                                 display_height = fin.read() | fin.read() << 8;
                                 frame_number = fin.read() + fin.read() << 8 | fin.read() << 16 | fin.read() << 24;
                                 timestamp = fin.read() + fin.read() << 8 | fin.read() << 16 | fin.read() << 24;
@@ -150,6 +155,9 @@ public class ARDrone20VideoDataDecoder extends VideoDataDecoder {
                             inbuf_int[3] = 0x00;
                             inbuf_int[4] = 0x01;
                             dataPointer = 5;
+                            if (Looper.getMainLooper().getThread() == Thread.currentThread()) {
+                                Log.e("LOOPER UI","ARDrone20vodepDataDecoder is in main looper");
+                            }
                             cacheRead[0] = fin.read();
                             cacheRead[1] = fin.read();
                             cacheRead[2] = fin.read();
@@ -164,8 +172,11 @@ public class ARDrone20VideoDataDecoder extends VideoDataDecoder {
                             avpkt.data_offset = 0;
 
                             try {
+                                bitmapResized = null;
                                 while (avpkt.size > 0) {
-
+                                    if (Looper.getMainLooper().getThread() == Thread.currentThread()) {
+                                        Log.e("LOOPER UI","ARDrone20vodepDataDecoder is in main looper");
+                                    }
                                     len = c.avcodec_decode_video2(picture, got_picture, avpkt);
                                     if (len < 0) {
                                         //
@@ -258,17 +269,14 @@ public class ARDrone20VideoDataDecoder extends VideoDataDecoder {
                                         //DrewCanvas = mFaceDetection.GetDrawedCanvas(bitmap,screenWidth,screenHeight);
                                         //if(bitmap != null) {
                                         //mPreview.invalidate();
-                                        Bitmap bitmapResized = Bitmap.createScaledBitmap(bitmap,
+                                        bitmapResized = Bitmap.createScaledBitmap(bitmap,
                                                 (int) (bitmap.getWidth() * 0.5), (int) (bitmap.getHeight() * 0.5), false);
 
                                         //mPreview.setImageBitmap(mutable_);
-                                        Message message;
-                                        message=Message.obtain();
-                                        message.obj=bitmapResized;
-                                        MainDrone.handler.sendMessage(message);
+                                        publishProgress(bitmapResized);
 
                                         //notifyDroneWithDecodedFrame(0, 0, picture.imageWidth, picture.imageHeight, buffer, 0, picture.imageWidth);
-                                    }
+                                   }
                                     avpkt.size -= len;
                                     avpkt.data_offset += len;
                                 }
@@ -284,6 +292,15 @@ public class ARDrone20VideoDataDecoder extends VideoDataDecoder {
         return null;
     }
 
+
+    @Override
+    protected void onProgressUpdate(Bitmap... bitmapResized) {
+        super.onProgressUpdate(bitmapResized);
+        Message message;
+        message=Message.obtain();
+        message.obj=bitmapResized[0];
+        MainDrone.handler.sendMessage(message);
+    }
 
 //    @Override
 //    public void finish() {

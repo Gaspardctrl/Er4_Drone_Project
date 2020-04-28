@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\bureau\\ArDrone\\3\\_1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+            "outputFile": "D:\\DOCU\\GitHub\\Er4_Drone_Project\\Developpement\\App v3.5 (test)\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
             "map": [
                 {
-                    "source": "D:\\bureau\\ArDrone\\3\\_1\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "source": "D:\\DOCU\\GitHub\\Er4_Drone_Project\\Developpement\\App v3.5 (test)\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "4",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\bureau\\ArDrone\\3\\_1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "outputFile": "D:\\DOCU\\GitHub\\Er4_Drone_Project\\Developpement\\App v3.5 (test)\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
             "map": [
                 {
                     "source": "C:\\Users\\gaspa\\.gradle\\caches\\transforms-2\\files-2.1\\bd4fb63300282a67420c6eaebb353f3e\\design-24.2.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
