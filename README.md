@@ -4,7 +4,7 @@
 
 Project, Geii : realisation of an app to control a drone.
 Final objective : the drone has to follow the face on the user.
-Project finished on april 15,2020.
+Project finished on april 30,2020.
 
 ## Original Work :
 
