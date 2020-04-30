@@ -57,9 +57,13 @@ This project is licensed under the terms of the MIT license.
 
 ```
 ## ChangeLog
-
-* v3.4
+* v3.5
     * last release.
+    * changes APP :
+      * Handler separated
+      * Tried fix preview
+      * Optimisation
+* v3.4
     * changes APP :
       * FINAL FIX : Video receiving
       * ToDO : Fix display
